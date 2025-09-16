@@ -4,8 +4,9 @@ An advanced, multi-feature iOS app for exploring Mars, built entirely with Swift
 
 ## 📸 Screenshots
 
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-16 at 09 16 39" src="https://github.com/user-attachments/assets/aa874898-9c63-454a-93ad-252364143292" />
 
-*(Add screenshots of your main screen, detail view with the map, and favorites tab. Press **Cmd + S** in the simulator to save screenshots, then drag them into the GitHub website editor later to upload.)*
+
 
 ## ✨ Features
 
