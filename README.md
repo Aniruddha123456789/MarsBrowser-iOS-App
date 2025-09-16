@@ -4,9 +4,9 @@ An advanced, multi-feature iOS app for exploring Mars, built entirely with Swift
 
 ## 📸 Screenshots
 
-<img width="400" height="900" alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-16 at 09 16 46" src="https://github.com/user-attachments/assets/81580076-717b-441f-8f3a-5b422d836b4a" />
-<img width="400" height="900" alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-16 at 09 16 51" src="https://github.com/user-attachments/assets/e0a499f5-cb06-4136-8bab-af7a43ffa9b0" />
-<img width="400" height="900" alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-16 at 09 17 21" src="https://github.com/user-attachments/assets/503ae1a7-6f4e-483c-ad89-09446ef8b328" />
+<img width="300" height="700" alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-16 at 09 16 46" src="https://github.com/user-attachments/assets/81580076-717b-441f-8f3a-5b422d836b4a" />
+<img width="300" height="700" alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-16 at 09 16 51" src="https://github.com/user-attachments/assets/e0a499f5-cb06-4136-8bab-af7a43ffa9b0" />
+<img width="300" height="700" alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-16 at 09 17 21" src="https://github.com/user-attachments/assets/503ae1a7-6f4e-483c-ad89-09446ef8b328" />
 
 
 
